@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rohans01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=rohansamanta01&theme=dark&response=false&border=true&time=true&icon=code"/></a>
+[![](https://gtce.itsvg.in/api?username=rohansamanta01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
