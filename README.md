@@ -1,24 +1,81 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohansamanta04) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15972671) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rohan_2001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rohansamanta01) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohans01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohans01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohans01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohans01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+</p>  
 
-## 🐦 Latest Tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=rohansamanta01&theme=dark&response=false&border=true&time=true&icon=code"/></a>
+<h2 align="center">Hi Fellow 👋, I'm Rohan Samanta!</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">A passionate QA from Kolkata India &#127470;&#127475</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=rohans01&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+ <br/>
+  <br/>
+   <br/>
+
+👋 About Me
+
+🎓 Education: I am a B.Tech graduate in Computer Science and Engineering (CSE).
+
+
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
+Manual Testing: Proficient in identifying and documenting bugs.
+Automation Testing: Experienced with tools like Selenium and JUnit.
+API Testing: Basic knowledge of testing APIs using SOAP UI.
+
+
+🌱 Currently Learning: Enhancing my skills in API testing and exploring new automation tools.
+
+
+💼 Career Goals: Aspiring to grow as a QA Engineer and contribute to high-quality software development.
+
+
+### 🖥 Skills
+
+- Manual Testing
+-       Smoke Testing 
+-       Regression Testing
+-       Acceptance Testing
+-       Performance & Usability Testing
+-       Exploratory Testing
+-       Globalization Testing 
+-       STLC
+- Selenium
+-       TestNG
+-        DDT
+-        POM
+-        BBD
+-        CUCUMBER
+- Api testing 
+-       SOAP
+-       REST
+- CORE JAVA
+-  ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat)
+
+- 💬 Ask me about **QA**
+
+- 📫 How to reach me **ROHANSAMANTA559@GMAIL.COM**
+
+<br/>
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rohansamanta04/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/sayankoner">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+      </div>
+
+</p>
+
